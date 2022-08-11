@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1percentnerd&label=Profile%20views&color=0e75b6&style=flat" alt="1percentnerd" /> </p>
 
-- 🌱 I’m currently learning **AWS & Python**
+- 🌱 I’m currently learning **AWS, Kubernetes/Dockers & Python**
 
 - 👯 I’m looking to collaborate on **Cloud Based Projects, Automation / DevOps CI/CD pipelines & Python Scripting**
 
