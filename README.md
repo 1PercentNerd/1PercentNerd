@@ -14,10 +14,11 @@
 ---
 
 ### 🌱 I’m currently learning:
-- **AWS, Kubernetes/Docker, and Python** for automation and infrastructure as code.  
+- **AWS, Microsoft Azure, Kubernetes/Docker, and Python** for automation and infrastructure as code.  
 
 ### 👯 I’m looking to collaborate on:
-- **Cloud-based projects**  
+- **Cloud-based projects**
+- **Cloud Architecture / Multi-Environment**
 - **Automation/DevOps CI/CD pipelines**  
 - **Python scripting and security-focused tools**  
 
