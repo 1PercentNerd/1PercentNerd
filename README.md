@@ -16,6 +16,8 @@ Committed to growing 1% each day, I aim to seamlessly integrate security and dev
 ### 🌱 I’m currently learning:
 - **AWS, Microsoft Azure, Kubernetes/Docker, and Python** for automation and infrastructure as code.  
 
+### Currently Enrolled in WGU B.S Cloud Computing. 
+
 ### 👯 I’m looking to collaborate on:
 - **Cloud-based projects**
 - **Cloud Architecture / Multi-Environment**
