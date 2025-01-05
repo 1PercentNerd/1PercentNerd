@@ -2,7 +2,9 @@
 <h3 align="center">Cybersecurity Engineer | Aspiring DevSecOps Learner</h3>
 
 <p align="center">
-  I am a self-motivated, disciplined Professional with a passion for learning and problem-solving. Currently preparing for AWS Developer Associate and SysOps Administrator certifications to strengthen my foundational knowledge, I aim to transition my mindset to understand DevSecOps by mastering the integration of security and development in modern cloud ecosystems. Let’s connect and collaborate on innovative, impactful solutions—striving to be 1% better every day!
+  I’m a self-motivated Cybersecurity Professional and Cloud Enthusiast on a journey toward DevSecOps, “Frugality” compels me to achieve more with fewer resources, spurring innovation and creativity. “Learn and Be Curious” drives my ongoing pursuit of new knowledge and self-improvement. I “Insist on the Highest Standards” by delivering exceptional results and fixing issues at their root, and I always “Dive Deep” to thoroughly understand every challenge. 
+  
+Committed to growing 1% each day, I aim to seamlessly integrate security and development within modern cloud ecosystems. Let’s connect and build impactful solutions together!
 </p>
 
 <p align="left"> 
