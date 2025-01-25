@@ -13,18 +13,16 @@ Currently enrolled for a B.S. in Cloud Computing at WGU, I focus on seamlessly i
 
 ---
 
-### 🌱 I’m currently learning:
+### I’m currently learning:
 - **Amazon Web Services, Microsoft Azure, Kubernetes/Docker, and Python** for automation and infrastructure as code.  
 
 ### Currently Enrolled in WGU B.S Cloud Computing. 
-
-### 👯 I’m looking to collaborate on:
 - **Cloud-based projects**  
 - **Cloud Architecture / Multi-Environment**  
 - **Automation/DevOps CI/CD pipelines**  
 - **Python scripting and security-focused tools**  
 
-### ⚡ Fun Fact:
+### ⚡ Fun Fact ⚡ :-
 - I’m a fan of **anime** (especially *Solo Leveling*) and enjoy bringing humor to every learning opportunity.
 
 ---
