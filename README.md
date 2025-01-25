@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezekiel Obeisun Jr</h1>
-<h3 align="center">Cybersecurity Engineer | Aspiring DevSecOps Learner</h3>
+<h3 align="center">Cyber Security Professional | Cloud Engineer </h3>
 
 <p align="center">
   I’m a self-motivated Cybersecurity Professional and Cloud Enthusiast on a journey toward DevSecOps, “Frugality” compels me to achieve more with fewer resources, spurring innovation and creativity. “Learn and Be Curious” drives my ongoing pursuit of new knowledge and self-improvement. I “Insist on the Highest Standards” by delivering exceptional results and fixing issues at their root, and I always “Dive Deep” to thoroughly understand every challenge. 
