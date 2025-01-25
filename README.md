@@ -4,7 +4,7 @@
 <p align="center">
 I’m a motivated Cybersecurity Professional and Cloud Enthusiast on a journey toward DevSecOps. Guided by the principle of doing more with fewer resources (frugality), I continuously seek innovative and creative solutions. My commitment to lifelong learning and curiosity ensures I stay at the forefront of emerging technologies, while my insistence on high standards drives me to address challenges at their root. I dive deep to thoroughly understand each obstacle, always aiming to improve by 1% each day. 
 
-Currently pursuing a B.S. in Cloud Computing at WGU, I focus on seamlessly integrating security, development, and modern cloud ecosystems to build impactful solutions. Let’s connect and collaborate to harness the power of AWS, Microsoft Azure, (GCP (Maybe)) - Kubernetes/Docker, and Python to create secure, scalable infrastructures.
+Currently enrolled for a B.S. in Cloud Computing at WGU, I focus on seamlessly integrating security, development, and modern cloud ecosystems to build impactful solutions. Nothing is given, everything is earned. - Let’s connect and collaborate to harness the power of AWS, Microsoft Azure, (GCP (Maybe)) - Kubernetes/Docker, and Python to create secure, scalable infrastructures.
 </p>
 
 <p align="left"> 
