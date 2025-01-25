@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ezekiel Obeisun Jr</h1>
-<h3 align="center">Cyber Security Professional | Cloud Engineer </h3>
+<h3 align="center">Cyber Security Professional | Cloud Engineer</h3>
 
 <p align="center">
-  I’m a self-motivated Cybersecurity Professional and Cloud Enthusiast on a journey toward DevSecOps, “Frugality” compels me to achieve more with fewer resources, spurring innovation and creativity. “Learn and Be Curious” drives my ongoing pursuit of new knowledge and self-improvement. I “Insist on the Highest Standards” by delivering exceptional results and fixing issues at their root, and I always “Dive Deep” to thoroughly understand every challenge. 
-  
-Committed to growing 1% each day, I aim to seamlessly integrate security and development within modern cloud ecosystems. Let’s connect and build impactful solutions together!
+I’m a motivated Cybersecurity Professional and Cloud Enthusiast on a journey toward DevSecOps. Guided by the principle of doing more with fewer resources (frugality), I continuously seek innovative and creative solutions. My commitment to lifelong learning and curiosity ensures I stay at the forefront of emerging technologies, while my insistence on high standards drives me to address challenges at their root. I dive deep to thoroughly understand each obstacle, always aiming to improve by 1% each day. 
+
+Currently pursuing a B.S. in Cloud Computing at WGU, I focus on seamlessly integrating security, development, and modern cloud ecosystems to build impactful solutions. Let’s connect and collaborate to harness the power of AWS, Microsoft Azure, Kubernetes/Docker, and Python to create secure, scalable infrastructures.
 </p>
 
 <p align="left"> 
@@ -19,8 +19,8 @@ Committed to growing 1% each day, I aim to seamlessly integrate security and dev
 ### Currently Enrolled in WGU B.S Cloud Computing. 
 
 ### 👯 I’m looking to collaborate on:
-- **Cloud-based projects**
-- **Cloud Architecture / Multi-Environment**
+- **Cloud-based projects**  
+- **Cloud Architecture / Multi-Environment**  
 - **Automation/DevOps CI/CD pipelines**  
 - **Python scripting and security-focused tools**  
 
@@ -56,8 +56,14 @@ Committed to growing 1% each day, I aim to seamlessly integrate security and dev
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1percentnerd&show_icons=true&locale=en&layout=compact" alt="1percentnerd" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1percentnerd&show_icons=true&locale=en&layout=compact" alt="1percentnerd" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1percentnerd&show_icons=true&locale=en" alt="1percentnerd" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1percentnerd&show_icons=true&locale=en" alt="1percentnerd" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1percentnerd&" alt="1percentnerd" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1percentnerd&" alt="1percentnerd" />
+</p>
